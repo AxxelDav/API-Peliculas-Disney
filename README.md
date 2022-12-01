@@ -1,5 +1,5 @@
 # Peliculas-Disney
-Aplicacion Backend peliculas-Disney. Las tecnologías usadas son: Java, Spring Boot, PostgreSQL, JPA, y Hibernate.
+Aplicacion Backend peliculas-Disney. Las tecnologías usadas son: Java, Spring Boot, PostgreSQL, JPA, y Hibernate, JUnit, Mockito.
 
 # Stack Tecnológico
 Java - 1.8.x +
@@ -10,3 +10,5 @@ Spring Data
 Spring Security
 JWT
 Swagger
+JUnit
+Mockito
