@@ -12,3 +12,4 @@ Aplicacion Backend peliculas-Disney, basado inicialmente para un challenge de Al
 - Swagger
 - JUnit
 - Mockito
+- Envio de Emails
