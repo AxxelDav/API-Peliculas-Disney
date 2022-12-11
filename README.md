@@ -5,11 +5,14 @@ Aplicacion Backend peliculas-Disney, basado inicialmente para un challenge de Al
 - Java 8
 - Spring Boot
 - Maven
+- Hibernate
+- JPA
 - PostgreSQL
 - Spring Data
 - Spring Security
-- JWT
+- JWT Token
 - Swagger
 - JUnit
 - Mockito
 - Envio de Emails
+- POSTMAN
